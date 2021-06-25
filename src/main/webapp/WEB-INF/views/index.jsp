@@ -46,7 +46,7 @@
           </a>
         <div class="text">
           <h1>Congratulations!</h1>
-          <h2>You just created a Java Spring web application.</h2>
+          <h2>You just created a Java Spring web application, adding some text.</h2>
           <h2> This is saichandu, Hello World </h2>
         </div>
       </div>
